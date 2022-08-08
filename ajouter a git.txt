@@ -1,0 +1,6 @@
+git add . ou git add nom_du_fichier ---> ajouter des fichiers
+git commit -m "message ici" ----> description de ce que tu as fait
+git push ----> envoyer sur le site
+
+
+git status ----> voir ce que tu as ajoute ou pas
